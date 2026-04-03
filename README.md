@@ -75,7 +75,9 @@ Currently, pH value is used as a placeholder in the code and can be replaced wit
 
 ### Prototype Setup
 
-![System Setup](images/setup.jpg)
+![Prototype](images/setup.jpg)
+
+---
 
 ## Circuit Diagram
 
