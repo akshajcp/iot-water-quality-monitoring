@@ -79,6 +79,8 @@ Currently, pH value is used as a placeholder in the code and can be replaced wit
 
 ## Circuit Diagram
 
+The following diagram represents the system connections used in simulation and hardware implementation.
+
 ![Circuit Diagram](images/circuit.png)
 
 ## Future Improvements
